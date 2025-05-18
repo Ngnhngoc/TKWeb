@@ -1,0 +1,28 @@
+      <div class="scrolling-text" aria-label="Thông báo chạy">
+        &nbsp;👉 Chào mừng các bạn đến với trang học tập bố cục web đơn giản &nbsp;&nbsp;|&nbsp;&nbsp; Ôn kỹ phần layout, font chữ, hình ảnh, hiệu ứng chữ chạy, menu và CSS &nbsp;&nbsp;|&nbsp;&nbsp; Học và thực hành thật tốt nhé! 👈
+      </div>
+    </header>
+    <nav class="sidebar" aria-label="Menu điều hướng chính">
+      <h2>MENU</h2>
+      <a href="#" class="active">Trang chủ</a>
+      <a href="#">Bố cục bảng</a>
+      <a href="#">Bố cục div</a>
+      <a href="#">Hiệu ứng chữ chạy</a>
+      <a href="#">Ảnh minh họa</a>
+      <a href="#">Liên hệ</a>
+    </nav>
+    <main>
+      <h1>Hình ảnh minh họa bố cục web</h1>
+      <div class="gallery" role="list">
+        <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="Ảnh minh họa bố cục 1" role="listitem" />
+        <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=80" alt="Ảnh minh họa bố cục 2" role="listitem" />
+        <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=80" alt="Ảnh minh họa bố cục 3" role="listitem" />
+        <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=80" alt="Ảnh minh họa bố cục 4" role="listitem" />
+      </div>
+    </main>
+    <footer>
+      &copy; 2025 Trang học tập bố cục web &nbsp;|&nbsp; Thiết kế bởi BLACKBOXAI
+    </footer>
+  </div>
+</body>
+</html>
